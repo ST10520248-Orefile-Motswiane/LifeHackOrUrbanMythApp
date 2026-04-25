@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#243B73"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <rect x="60" y="70" width="120" height="34" rx="17" fill="#3B82F6"/>
+  <text x="120" y="92" font-family="Arial" font-size="16" font-weight="700" fill="white" text-anchor="middle">FLASHCARD GAME</text>
+  <text x="60" y="160" font-family="Arial" font-size="38" font-weight="700" fill="white">Life Hack or Urban Myth?</text>
+  <text x="60" y="205" font-family="Arial" font-size="20" fill="#EAF1FF">Test everyday advice before trusting it.</text>
+  <rect x="60" y="240" width="680" height="150" rx="24" fill="#F8FAFC"/>
+  <text x="90" y="290" font-family="Arial" font-size="26" font-weight="700" fill="#172033">How It Works</text>
+  <text x="90" y="325" font-family="Arial" font-size="18" fill="#44506A">Read each card, choose Hack or Myth, and review the</text>
+  <text x="90" y="350" font-family="Arial" font-size="18" fill="#44506A">correct explanation after the quiz ends.</text>
+  <rect x="90" y="365" width="220" height="46" rx="12" fill="#F97316"/>
+  <text x="200" y="395" font-family="Arial" font-size="20" font-weight="700" fill="white" text-anchor="middle">Start Quiz</text>
+</svg>

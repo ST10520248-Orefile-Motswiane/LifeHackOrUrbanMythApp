@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#243B73"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <rect x="340" y="55" width="120" height="34" rx="17" fill="#3B82F6"/>
+  <text x="400" y="77" font-family="Arial" font-size="16" font-weight="700" fill="white" text-anchor="middle">RESULTS</text>
+  <rect x="140" y="110" width="520" height="250" rx="24" fill="#F8FAFC"/>
+  <text x="400" y="185" font-family="Arial" font-size="34" font-weight="700" fill="#172033" text-anchor="middle">You scored 5 out of 6</text>
+  <text x="400" y="225" font-family="Arial" font-size="20" fill="#44506A" text-anchor="middle">Master Hacker! You can separate useful tips</text>
+  <text x="400" y="252" font-family="Arial" font-size="20" fill="#44506A" text-anchor="middle">from risky internet myths.</text>
+  <rect x="220" y="285" width="360" height="48" rx="12" fill="#14213D"/>
+  <text x="400" y="316" font-family="Arial" font-size="20" font-weight="700" fill="white" text-anchor="middle">Review Answers</text>
+  <rect x="220" y="340" width="360" height="48" rx="12" fill="#F97316"/>
+  <text x="400" y="371" font-family="Arial" font-size="20" font-weight="700" fill="white" text-anchor="middle">Play Again</text>
+</svg>

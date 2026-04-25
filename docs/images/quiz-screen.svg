@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#243B73"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <rect x="60" y="55" width="160" height="34" rx="17" fill="#3B82F6"/>
+  <text x="140" y="77" font-family="Arial" font-size="16" font-weight="700" fill="white" text-anchor="middle">QUESTION 2 OF 6</text>
+  <text x="60" y="118" font-family="Arial" font-size="24" font-weight="700" fill="white">Current score: 1</text>
+  <rect x="60" y="150" width="680" height="245" rx="24" fill="#F8FAFC"/>
+  <text x="90" y="205" font-family="Arial" font-size="28" font-weight="700" fill="#172033">Dark mode doubles battery life on every phone screen.</text>
+  <rect x="90" y="235" width="560" height="60" rx="16" fill="#E2E8F0"/>
+  <text x="110" y="272" font-family="Arial" font-size="18" fill="#172033">Wrong! Myth: savings depend on the display type and usage.</text>
+  <rect x="90" y="315" width="280" height="48" rx="12" fill="#0F766E"/>
+  <text x="230" y="346" font-family="Arial" font-size="20" font-weight="700" fill="white" text-anchor="middle">Hack (True)</text>
+  <rect x="390" y="315" width="280" height="48" rx="12" fill="#BE123C"/>
+  <text x="530" y="346" font-family="Arial" font-size="20" font-weight="700" fill="white" text-anchor="middle">Myth (False)</text>
+  <rect x="90" y="372" width="580" height="44" rx="12" fill="#CBD5E1"/>
+  <text x="380" y="400" font-family="Arial" font-size="19" font-weight="700" fill="#172033" text-anchor="middle">Next</text>
+</svg>
