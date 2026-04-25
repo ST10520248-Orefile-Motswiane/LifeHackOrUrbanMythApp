@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Life Hack or Urban Myth</string>
+    <string name="welcome_badge">FLASHCARD GAME</string>
+    <string name="welcome_title">Life Hack or Urban Myth?</string>
+    <string name="welcome_description">Test your common sense with quick everyday statements. Decide whether each one is a practical life hack or just another internet myth.</string>
+    <string name="how_to_play_title">How It Works</string>
+    <string name="how_to_play_body">Read each statement carefully, tap Hack or Myth, then move to the next flashcard. Your score updates as you go, and the review screen explains every answer at the end.</string>
+    <string name="start_button">Start Quiz</string>
+
+    <string name="question_progress_format">Question %1$d of %2$d</string>
+    <string name="running_score_format">Current score: %1$d</string>
+    <string name="hack_button">Hack (True)</string>
+    <string name="myth_button">Myth (False)</string>
+    <string name="next_button">Next</string>
+    <string name="answer_before_next">Please choose an answer first.</string>
+    <string name="placeholder_progress">Question 1 of 6</string>
+    <string name="placeholder_score">Current score: 0</string>
+    <string name="sample_question">Switching your phone to airplane mode while charging can help it charge faster.</string>
+
+    <string name="results_badge">RESULTS</string>
+    <string name="final_score_format">Final score: %1$d/%2$d</string>
+    <string name="sample_final_score">You scored 5 out of 6</string>
+    <string name="review_button">Review Answers</string>
+    <string name="restart_button">Play Again</string>
+
+    <string name="review_badge">REVIEW</string>
+    <string name="back_home_button">Back to Home</string>
+</resources>

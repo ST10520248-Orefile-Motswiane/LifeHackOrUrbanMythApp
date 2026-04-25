@@ -1,0 +1,10 @@
+<resources>
+    <color name="midnight">#14213D</color>
+    <color name="sunset">#F97316</color>
+    <color name="berry">#BE123C</color>
+    <color name="emerald">#0F766E</color>
+    <color name="mist">#F8FAFC</color>
+    <color name="ink">#172033</color>
+    <color name="ink_muted">#44506A</color>
+    <color name="panel_stroke">#DCE4F2</color>
+</resources>
